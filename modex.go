@@ -1,5 +1,5 @@
 package modex
 
 func Hello() string {
-	return "Hello"
+	return "Hello World"
 }
